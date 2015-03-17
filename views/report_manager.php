@@ -1,3 +1,5 @@
+<!-- this was meant to be included into a page with jqxwidgets already loaded -->
+
 <style type="text/css">
     #query_selector table tr td.header {
         width: 200px;
